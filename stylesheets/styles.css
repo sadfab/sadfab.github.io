@@ -99,7 +99,7 @@ header {
   width:270px;
   float:left;
   /*position:fixed;*/
-	border:1px solid #3CFF00;
+	/*border:1px solid #3CFF00; */
 	overflow-x:scroll;
   padding-right:40px;  
 }
