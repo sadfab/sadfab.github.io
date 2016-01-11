@@ -25,7 +25,7 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#FF69B4;
 }
 
 h3, h4, h5, h6 {
@@ -98,7 +98,10 @@ img {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  /*position:fixed;*/
+	/*border:1px solid #3CFF00; */
+	overflow-x:scroll;
+  padding-right:40px;  
 }
 
 header ul {
@@ -124,7 +127,7 @@ header ul {
 header li {
   width:89px;
   float:left;
-  border-right:1px solid #d2d2d2;
+  border-right:10px solid #d2d2d2;
   height:40px;
 }
 
@@ -179,7 +182,7 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:fixed;
+  /*position:fixed;*/
   bottom:50px;
 }
 
