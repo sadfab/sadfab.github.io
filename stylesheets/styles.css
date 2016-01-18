@@ -93,11 +93,12 @@ th {
 
 img {
   max-width:100%;
-  border: 1px solid #FF69B4;
+
 }
 
-img nb {
+img pb {
 	max-width:100%;
+	border: 1px solid #FF69B4;
 }
 
 header {
