@@ -96,7 +96,7 @@ img {
 
 }
 
-img pb {
+.imgpb {
 	max-width:100%;
 	border: 1px solid #FF69B4;
 }
